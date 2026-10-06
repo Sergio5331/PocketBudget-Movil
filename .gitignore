@@ -1,0 +1,30 @@
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+local.properties
+
+# Dependencias y salidas generadas
+node_modules/
+build/
+dist/
+coverage/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.gradle/
+Pods/
+DerivedData/
+__pycache__/
+*.pyc
+*.log
+
+# Archivos locales del editor y sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
