@@ -78,16 +78,28 @@ La APK está firmada digitalmente y fue probada en un dispositivo Android físic
 | PostgreSQL | Persistencia de información |
 | Supabase Storage | Almacenamiento de imágenes |
 
-## 📸 Capturas de pantalla
+## 📷 Capturas de pantalla
 
-Próximamente se agregarán imágenes de las pantallas principales de PocketBudget:
+### Inicio de sesión
+<img src="docs/capturas/login.png" alt="Inicio de sesión" width="300"/>
 
-- Inicio de sesión
-- Dashboard
-- Registro de movimientos
-- Presupuestos
-- Estadísticas
-- Metas de ahorro
+### Registro de usuario
+<img src="docs/capturas/registro.png" alt="Registro" width="300"/>
+
+### Dashboard
+<img src="docs/capturas/dashboard.png" alt="Dashboard" width="300"/>
+
+### Registro de movimientos
+<img src="docs/capturas/movimientos.png" alt="Agregar movimiento" width="300"/>
+
+### Presupuestos
+<img src="docs/capturas/presupuesto.png" alt="Presupuesto" width="300"/>
+
+### Estadísticas
+<img src="docs/capturas/estadisticas.png" alt="Estadísticas" width="300"/>
+
+### Metas de ahorro
+<img src="docs/capturas/metas.png" alt="Metas de ahorro" width="300"/>
 
 ## 📦 Instalación de la APK
 
