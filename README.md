@@ -78,28 +78,50 @@ La APK está firmada digitalmente y fue probada en un dispositivo Android físic
 | PostgreSQL | Persistencia de información |
 | Supabase Storage | Almacenamiento de imágenes |
 
-## 📷 Capturas de pantalla
 
-### Inicio de sesión
-<img src="docs/capturas/login.png" alt="Inicio de sesión" width="300"/>
+## 📸 Capturas de pantalla
 
-### Registro de usuario
-<img src="docs/capturas/registro.png" alt="Registro" width="300"/>
+<p align="center">
+  Explora las principales funcionalidades de PocketBudget Móvil v1.0.0.
+</p>
 
-### Dashboard
-<img src="docs/capturas/dashboard.png" alt="Dashboard" width="300"/>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/capturas/login.png" width="100%" alt="Inicio de sesión">
+      <br><b>Inicio de sesión</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/capturas/registro.png" width="100%" alt="Registro">
+      <br><b>Crear cuenta</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/capturas/dashboard.png" width="100%" alt="Dashboard">
+      <br><b>Panel principal</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/capturas/movimientos.png" width="100%" alt="Movimientos">
+      <br><b>Agregar movimiento</b>
+    </td>
+    <td align="center">
+      <img src="docs/capturas/presupuesto.png" width="100%" alt="Presupuestos">
+      <br><b>Presupuestos</b>
+    </td>
+    <td align="center">
+      <img src="docs/capturas/estadisticas.png" width="100%" alt="Estadísticas">
+      <br><b>Estadísticas financieras</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="docs/capturas/metas.png" width="280" alt="Metas de ahorro">
+      <br><b>Metas de ahorro</b>
+    </td>
+  </tr>
+</table>
 
-### Registro de movimientos
-<img src="docs/capturas/movimientos.png" alt="Agregar movimiento" width="300"/>
-
-### Presupuestos
-<img src="docs/capturas/presupuesto.png" alt="Presupuesto" width="300"/>
-
-### Estadísticas
-<img src="docs/capturas/estadisticas.png" alt="Estadísticas" width="300"/>
-
-### Metas de ahorro
-<img src="docs/capturas/metas.png" alt="Metas de ahorro" width="300"/>
 
 ## 📦 Instalación de la APK
 
